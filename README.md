@@ -4,7 +4,7 @@ A small repo to understand and implement pandas profiling
 
 ## Pandas Profiling.
 
-Creates an interactive HTML report from a pandas DataFrame. As we know Exploration Data Analysis is one of the most important steps in the OSEMN freamework. This library creates a very good visual summary of the columns as well as the corelations between them.
+Creates an interactive HTML report from a pandas DataFrame. As we know Exploration Data Analysis is one of the most important steps in the OSEMN freamework. This library creates a very good visual summary of the columns as well as the correlations between them.
 
 ## Pros:
 
